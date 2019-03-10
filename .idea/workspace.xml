@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="e1711179-740b-4504-8e65-165b19b128a6" name="Default Changelist" comment="" />
+=======
+<<<<<<< HEAD
+  <component name="ChangeListManager">
+    <list default="true" id="e1711179-740b-4504-8e65-165b19b128a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/sadsfdsfds.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sadsfdsfds.txt" afterDir="false" />
+    </list>
+>>>>>>> master
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,7 +25,11 @@
         <entry file="file://$PROJECT_DIR$/sadsfdsfds.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
+<<<<<<< HEAD
               <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+=======
+              <caret column="38" selection-start-column="38" selection-end-column="38" />
+>>>>>>> master
             </state>
           </provider>
         </entry>
@@ -34,12 +46,21 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> dx
+>>>>>>> master
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="84" />
     <option name="y" value="146" />
     <option name="width" value="1382" />
     <option name="height" value="743" />
   </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -60,12 +81,21 @@
       </pane>
     </panes>
   </component>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> dx
+>>>>>>> master
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -88,12 +118,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552190492534</updated>
+<<<<<<< HEAD
       <workItem from="1552190507089" duration="1865000" />
+=======
+      <workItem from="1552190507089" duration="577000" />
+>>>>>>> master
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="510000" />
+=======
+    <option name="totallyTimeSpent" value="577000" />
+>>>>>>> master
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -118,4 +156,21 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sadsfdsfds.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+=======
+>>>>>>> dx
+>>>>>>> master
 </project>
